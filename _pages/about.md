@@ -8,6 +8,22 @@ redirect_from:
   - /about.html
 ---
 
+Education
+======
+*<b>B.S<\b>. Guangdong University of Technology   (2018-2022)  
+  * School of Information Engineering
+* <b>M.S<\b>. Guangdong University of Technology (2022)
+  * School of Information Engineering
+  * Supervisor: Yukai Shi
+ 
+Work experience
+======
+* Summer 2022: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+
 Publication
 ======
 <ul>
