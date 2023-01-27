@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ======
-*<b>B.S<\b>. Guangdong University of Technology   (2018-2022)  
+* <b>B.S<\b>. Guangdong University of Technology   (2018-2022)  
   * School of Information Engineering
-* <b>M.S<\b>. Guangdong University of Technology (2022)
+*  <b>M.S<\b>. Guangdong University of Technology (2022)
   * School of Information Engineering
   * Supervisor: Yukai Shi
  
