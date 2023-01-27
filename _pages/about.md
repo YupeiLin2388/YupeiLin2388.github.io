@@ -16,14 +16,13 @@ Education
 * M.S. Guangdong University of Technology (2022) 
   * School of Information Engineering
   * Supervisor: Yukai Shi
-  * 
  
 Work experience
 ======
-* Summer 2022: Research Assistant
-  * Github University
+* The Chinese University of Hong Kong，Shenzhe (2022.06-2022.09) 
+  * Research Assistant
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Ruimao Zhang
 
 
 Publication
