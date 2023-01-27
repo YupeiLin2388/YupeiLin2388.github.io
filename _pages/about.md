@@ -19,9 +19,9 @@ Education
  
 Work experience
 ======
-* The Chinese University of Hong Kong，Shenzhe (2022.06-2022.09) 
+* The Chinese University of Hong Kong，Shenzhen (2022.06-2022.09) 
   * Research Assistant
-  * Duties included: Tagging issues
+  * Duties included: Text to motion generation
   * Supervisor: Ruimao Zhang
 
 
