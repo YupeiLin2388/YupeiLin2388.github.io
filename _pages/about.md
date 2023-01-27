@@ -13,6 +13,7 @@ Education
 * B.S. Guangdong University of Technology   (2018-2022)  
   * School of Information Engineering
 *  M.S. Guangdong University of Technology (2022)
+  *   
   * School of Information Engineering
   * Supervisor: Yukai Shi
  
