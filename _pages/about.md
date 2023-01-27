@@ -13,13 +13,11 @@ Education
 * B.S. Guangdong University of Technology   (2018-2022)  
   * School of Information Engineering
 
-*  M.S. Guangdong University of Technology (2022)  
-  *    School of Information Engineering
-  *  Supervisor: Yukai Shi
-* Summer 2022: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* M.S. Guangdong University of Technology (2022) 
+  * School of Information Engineering
+  * Supervisor: Yukai Shi
+  * 
+ 
 Work experience
 ======
 * Summer 2022: Research Assistant
