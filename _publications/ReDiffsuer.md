@@ -6,7 +6,7 @@ permalink: /publication/ReDiffuser
 
 <p align="center"> $\text{Yupei Lin}^{1}$, $\text{Sen Zhang}^2$, $\text{Xiaojun Yang}^1$, $\text{Xiao Wang}^3$,  $\text{Yukai Shi}^{1*}$ 
  
-<p> ${}^1$ Guangdong University of Technology, ${}^2$ The University of Sydney, ${ }^3$ Anhui University
+<p align="center"> ${}^1$ Guangdong University of Technology, ${}^2$ The University of Sydney, ${ }^3$ Anhui University
  
 ![show_res](/images/poject/ReDiffuser/show_res.jpg)
 ## Abstract
