@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/ReDiffuser
 ---
 
-<p>$\text{Yupei Lin}^{1}$, $\text{Sen Zhang}^2$, $\text{Xiaojun Yang}^1$, $\text{Xiao Wang}^3$,  $\text{Yukai Shi}^{1*}$  </p>
-<p> ${}^1$ Guangdong University of Technology, ${}^2$ The University of Sydney, ${ }^3$ Anhui University </p>
-<p> *: Corresponding author </p>
+<p align='center'>$\text{Yupei Lin}^{1}$, $\text{Sen Zhang}^2$, $\text{Xiaojun Yang}^1$, $\text{Xiao Wang}^3$,  $\text{Yukai Shi}^{1*}$  </p>
+<p align='center'> ${}^1$ Guangdong University of Technology, ${}^2$ The University of Sydney, ${ }^3$ Anhui University </p>
+<p align='center'> *: Corresponding author </p>
   
 ## Teaser
   
