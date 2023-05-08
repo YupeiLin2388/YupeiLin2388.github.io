@@ -8,7 +8,7 @@ permalink: /publication/ReDiffuser
 <p> ${}^1$ Guangdong University of Technology, ${}^2$ The University of Sydney, ${ }^3$ Anhui University
 <p> *: Corresponding author
   
-
+## Teaser
 ![show_res](/images/poject/ReDiffuser/show_res.jpg)
 ## Abstract
 
