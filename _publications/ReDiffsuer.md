@@ -18,7 +18,7 @@ permalink: /publication/ReDiffuser
 
 ## Generated  Results
 ![exp_res](/images/poject/ReDiffuser/exp_res.jpg)
-## <p align="center">Qualitative Results</p>
+## Qualitative Results
 ![exp_table](/images/poject/ReDiffuser/exp_table.PNG)
 
 ## Additional results
