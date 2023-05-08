@@ -3,6 +3,7 @@ title: "ReGeneration Learning of Diffusion Models with Rich Prompts for Zero-Sho
 collection: publications
 permalink: /publication/ReDiffuser
 ---
+ Yupei Lin$^{1}$,  Sen Zhang$^2$,  Xiaojun Yang$^1$,  Xiao Wang$^3$,  Yukai Shi$^{1✉}$ 
 ![show_res](/images/poject/ReDiffuser/show_res.jpg)
 ## Abstract
 
