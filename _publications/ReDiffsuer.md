@@ -6,7 +6,6 @@ permalink: /publication/ReDiffuser
 
 <p align='center'> <a href="https://yupeilin2388.github.io/">Yupei Lin</a> $^{1}$, <a href="https://github.com/SenZHANG-GitHub">Sen Zhang</a> $^2$,  <a href="https://yzw.gdut.edu.cn/info/1118/2032.htm">Xiaojun Yang</a> $^1$,  <a href="https://wangxiao5791509.github.io">Xiao Wang</a> $^3$,   <a href="https://ykshi.github.io/">Yukai Shi</a> $^{1*}$  </p> 
 <p align='center'> ${}^1$ Guangdong University of Technology, ${}^2$ The University of Sydney, ${ }^3$ Anhui University </p>
-<p align='center'> *: Corresponding author  </p>
   
 ![show_res](/images/poject/ReDiffuser/show_res.jpg)
   
