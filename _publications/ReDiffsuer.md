@@ -17,9 +17,9 @@ permalink: /publication/ReDiffuser
 ![framework](/images/poject/ReDiffuser/framework.svg)
 
 ## Dataset
-- **Cat(C2D-F and C2G-F)**: [*Coming Soon*]()
-- **Horse(H2Z-F)**: [*Coming Soon*]()
-- **Sketch(S2O-F)**: [*Coming Soon*]()
+- **Cat(C2D-F and C2G-F)**: [*Google drive*](https://drive.google.com/file/d/1q9PEfJYxYWhOdJloto0QuUg-bLUICh3_/view?usp=share_link)
+- **Horse(H2Z-F)**: [*Google drive*](https://drive.google.com/file/d/1LbAvRr1CvTu1GLXuk0Y2chYEsq0E3IQs/view?usp=share_link)
+- **Sketch(S2O-F)**: [*Google drive*](https://drive.google.com/file/d/1iw440bF-G0NZjOTrew1KjbS-SYkE1Wce/view?usp=share_link)
 
 ## Generated  Results
 ![exp_res](/images/poject/ReDiffuser/exp_res.jpg)
