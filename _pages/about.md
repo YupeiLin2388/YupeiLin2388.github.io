@@ -30,9 +30,9 @@ Publication
 <ul>
 <li><p><a href="https://arxiv.org/abs/2401.03221">MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond</a> <br />
 <b>Yupei Lin</b>, Xiaoyu Xian, Yukai Shi, Liang Lin <br />
-<i> IEEE Signal Processing Letters <b>(IEEE SPL)</b>, 2023. <a href="https://arxiv.org/abs/2401.03221">[PDF]</a><a href="https://github.com/YupeiLin2388/Exploring-Negatives-in-Contrastive-Learning-for-Unpaired-Image-to-Image-Translation">[Code]</a></i></p>
-<li><p><a href="https://arxiv.org/pdf/2204.11018.pdf">Exploring Negatives in Contrastive Learning for Unpaired Image-to-Image Translation</a> <br />
+<i> IEEE Signal Processing Letters <b>(IEEE SPL)</b>, 2023. <a href="https://arxiv.org/abs/2401.03221">[PDF]</a><a href="https://mirrordiffusion.github.io/">[Project]</a></i></p>
+<li><p><a href="">Exploring Negatives in Contrastive Learning for Unpaired Image-to-Image Translation</a> <br />
 <b>Yupei Lin</b>, Sen Zhang, Tianshui Chen, Yongyi Lu, Guangping Li, Yukai Shi <br />
-<i> ACM International Conference on Multimedia <b>(ACM MM)</b>, 2022. <a href="https://arxiv.org/abs/2204.11018v2">[PDF]</a><a href="https://mirrordiffusion.github.io/">[Project]</a></i></p>
+<i> ACM International Conference on Multimedia <b>(ACM MM)</b>, 2022. <a href="https://arxiv.org/abs/2204.11018v2">[PDF]</a><a href="https://github.com/YupeiLin2388/Exploring-Negatives-in-Contrastive-Learning-for-Unpaired-Image-to-Image-Translation">[Code]</a></i></p>
 </li>
 </ul>
