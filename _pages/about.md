@@ -28,9 +28,10 @@ Work experience
 Publication
 ======
 <ul>
-<li><p><a href="https://arxiv.org/pdf/2403.05416.pdf">MirrorDiffusion: Stabilizing Diffusion Process in Zero-shot Image Translation by Prompts Redescription and Beyond</a> <br />
+<li><p><a href="https://arxiv.org/pdf/2403.05416.pdf">	SIRST-5K: Exploring Massive Negatives Synthesis with Self-supervised Learning for Robust Infrared Small Target Detection</a> <br />
 Yahao Lu, <b>Yupei Lin</b>, Han Wu, Xiaoyu Xian, Yukai Shi, Liang Lin<br/>
-<i> preprint 2024</i></p></li>
+<i> IEEE Transactions on Geoscience and Remote Sensing  <b>(TGRS)</b> 2024 <a href="https://arxiv.org/pdf/2403.05416.pdf">[PDF]</a><a href="https://github.com/luy0222/SIRST-5K">[Code]</a></i></p>
+</li>
   
 <li><p><a href="https://www.bing.com/ck/a?!&&p=e5dc9a2cb6f2c63eJmltdHM9MTcxMjUzNDQwMCZpZ3VpZD0wYTRmNDVhMi1mZjZmLTZmOGYtMmM3Ny01N2U4ZmU0MTZlMTkmaW5zaWQ9NTIyNw&ptn=3&ver=2&hsh=3&fclid=0a4f45a2-ff6f-6f8f-2c77-57e8fe416e19&u=a1aHR0cHM6Ly93d3cuc3BpZWRpZ2l0YWxsaWJyYXJ5Lm9yZy9qb3VybmFscy9qb3VybmFsLW9mLWVsZWN0cm9uaWMtaW1hZ2luZy92b2x1bWUtMzMvaXNzdWUtMDIvMDIzMDE5L1RoZXJtYWwtaW5mcmFyZWQtaW1hZ2UtY29sb3JpemF0aW9uLW9uLW5pZ2h0dGltZS1kcml2aW5nLXNjZW5lcy13aXRoLXNwYXRpYWxseS8xMC4xMTE3LzEuSkVJLjMzLjIuMDIzMDE5LmZ1bGw&ntb=1">Thermal infrared image colorization on nighttime driving scenes with spatially-correlated learning</a> <br />
 Lianpei Wu, Yukai Shi, <b>Yupei Lin</b>, Zhenwei Huang, Xiaoyu Xian <br />
