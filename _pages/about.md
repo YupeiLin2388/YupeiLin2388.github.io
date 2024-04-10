@@ -15,7 +15,7 @@ Education
 
 * M.S. Guangdong University of Technology (2022-present) 
   * School of Information Engineering
-  * Supervisor: Yukai Shi
+  * Supervisor: [Yukai Shi](https://ykshi.github.io/)
  
 Work experience
 ======
