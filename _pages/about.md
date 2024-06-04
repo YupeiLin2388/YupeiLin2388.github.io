@@ -28,9 +28,9 @@ Work experience
 Publication
 ======
 <ul>
- <li><p><a href="https://ieeexplore.ieee.org/document/10542973f">	Diff-Mosaic: Augmenting Realistic Representations in Infrared Small Target Detection via Diffusion Prior</a> <br />
+ <li><p><a href="http://export.arxiv.org/pdf/2406.00632">	Diff-Mosaic: Augmenting Realistic Representations in Infrared Small Target Detection via Diffusion Prior</a> <br />
 Yukai Shi, <b>Yupei Lin</b>, Pengxu Wei, Xiaoyu Xian, Tianshui Chen, Liang Lin<br/>
-<i> IEEE Transactions on Geoscience and Remote Sensing  <b>(TGRS)</b> 2024 <a href="https://ieeexplore.ieee.org/document/10542973f">[PDF]</a><a href="https://github.com/YupeiLin2388/Diff-Mosaic">[Code]</a></i></p>
+<i> IEEE Transactions on Geoscience and Remote Sensing  <b>(TGRS)</b> 2024 <a href="http://export.arxiv.org/pdf/2406.00632">[PDF]</a><a href="https://github.com/YupeiLin2388/Diff-Mosaic">[Code]</a></i></p>
 </li>
   
 <li><p><a href="https://arxiv.org/pdf/2403.05416.pdf">	SIRST-5K: Exploring Massive Negatives Synthesis with Self-supervised Learning for Robust Infrared Small Target Detection</a> <br />
