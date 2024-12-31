@@ -27,7 +27,6 @@ Work experience
 
 Publication
 ======
-<ul>
  <li><p><a href="http://export.arxiv.org/pdf/2407.14823">	CrossDehaze: Scaling Up Image Dehazing with Cross-Data Vision Alignment and Augmentation</a> <br />
 Yukai Shi, Zhipeng Weng, <b>Yupei Lin</b>, Cidan Shi, Xiaojun Yang, Liang Lin<br/>
 <i> arxiv  <b>(arxiv)</b> 2024 <a href="http://export.arxiv.org/pdf/2407.14823">[PDF]</a><a href="https://github.com/wengzp1/ScaleUpDehazing">[Code]</a></i></p>
@@ -53,4 +52,3 @@ Lianpei Wu, Yukai Shi, <b>Yupei Lin</b>, Zhenwei Huang, Xiaoyu Xian <br />
 <b>Yupei Lin</b>, Sen Zhang, Tianshui Chen, Yongyi Lu, Guangping Li, Yukai Shi <br />
 <i> ACM International Conference on Multimedia <b>(ACM MM)</b>, 2022. <a href="https://arxiv.org/abs/2204.11018v2">[PDF]</a><a href="https://github.com/YupeiLin2388/Exploring-Negatives-in-Contrastive-Learning-for-Unpaired-Image-to-Image-Translation">[Code]</a></i></p>
 </li>
-</ul>
