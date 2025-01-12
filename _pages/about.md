@@ -33,18 +33,19 @@ Work experience
 
 Publication
 ======
+*= co-first author
  <li><p>High-Fidelity Editable Portrait Synthesis with 3D GAN Inversion <br />
 Jindong Xie, Jiachen Liu, <b>Yupei Lin</b>, Jinbao Wang, Xianxu Hou, Linlin Shen<br/>
 <i> IEEE International Conference on Acoustics, Speech and Signal Processing  <b>(ICASSP)</b> 2025[PDF][Code]</i></p>
 
    
  <li><p><a href="http://export.arxiv.org/pdf/2407.14823">	CrossDehaze: Scaling Up Image Dehazing with Cross-Data Vision Alignment and Augmentation</a> <br />
-Yukai Shi, Zhipeng Weng, <b>Yupei Lin</b>, Cidan Shi, Xiaojun Yang, Liang Lin<br/>
+Yukai Shi*, Zhipeng Weng*, <b>Yupei Lin</b>, Cidan Shi, Xiaojun Yang, Liang Lin<br/>
 <i> arxiv  <b>(arxiv)</b> 2024 <a href="http://export.arxiv.org/pdf/2407.14823">[PDF]</a><a href="https://github.com/wengzp1/ScaleUpDehazing">[Code]</a></i></p>
 
 
  <li><p><a href="http://export.arxiv.org/pdf/2406.00632">	Diff-Mosaic: Augmenting Realistic Representations in Infrared Small Target Detection via Diffusion Prior</a> <br />
-Yukai Shi, <b>Yupei Lin</b>, Pengxu Wei, Xiaoyu Xian, Tianshui Chen, Liang Lin<br/>
+Yukai Shi*, <b>Yupei Lin*</b>, Pengxu Wei, Xiaoyu Xian, Tianshui Chen, Liang Lin<br/>
 <i> IEEE Transactions on Geoscience and Remote Sensing  <b>(TGRS)</b> 2024 <a href="http://export.arxiv.org/pdf/2406.00632">[PDF]</a><a href="https://github.com/YupeiLin2388/Diff-Mosaic">[Code]</a></i></p>
 </li>
   
@@ -60,7 +61,7 @@ Lianpei Wu, Yukai Shi, <b>Yupei Lin</b>, Zhenwei Huang, Xiaoyu Xian <br />
 <b>Yupei Lin</b>, Xiaoyu Xian, Yukai Shi, Liang Lin <br />
 <i> IEEE Signal Processing Letters <b>(IEEE SPL)</b>, 2023. <a href="https://arxiv.org/abs/2401.03221">[PDF]</a><a href="https://mirrordiffusion.github.io/">[Project]</a></i></p></li>
 <li><p><a href="">Exploring Negatives in Contrastive Learning for Unpaired Image-to-Image Translation</a> <br />
-<b>Yupei Lin</b>, Sen Zhang, Tianshui Chen, Yongyi Lu, Guangping Li, Yukai Shi <br />
+<b>Yupei Lin*</b>, Sen Zhang*, Tianshui Chen, Yongyi Lu, Guangping Li, Yukai Shi <br />
 <i> ACM International Conference on Multimedia <b>(ACM MM)</b>, 2022. <a href="https://arxiv.org/abs/2204.11018v2">[PDF]</a><a href="https://github.com/YupeiLin2388/Exploring-Negatives-in-Contrastive-Learning-for-Unpaired-Image-to-Image-Translation">[Code]</a></i></p>
 </li>
 
