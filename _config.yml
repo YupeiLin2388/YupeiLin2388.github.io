@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Yupei Lin (林育培) Homepage"
+title                    : "Yupei Lin (林育培)"
 title_separator          : "-"
 name                     : &name "Yupei Lin(林育培)"
 description              : &description "personal description"
