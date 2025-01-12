@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Yupei Lin（林育培）
-===
+======
 Education
 ======
 * B.S. Guangdong University of Technology   (2018-2022)  
