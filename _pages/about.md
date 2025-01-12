@@ -18,6 +18,10 @@ Education
 * M.S. Guangdong University of Technology (2022-present) 
   * School of Information Engineering
   * Supervisor: [Yukai Shi](https://ykshi.github.io/)
+
+Honors
+======
+国家奖学金(2024)
  
 Work experience
 ======
@@ -61,6 +65,4 @@ Lianpei Wu, Yukai Shi, <b>Yupei Lin</b>, Zhenwei Huang, Xiaoyu Xian <br />
 </li>
 
 
-Honors
-======
-国家奖学金(2024)
+
