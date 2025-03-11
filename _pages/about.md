@@ -34,9 +34,9 @@ Work experience
 Publication
 ======
 *= co-first author
- <li><p>High-Fidelity Editable Portrait Synthesis with 3D GAN Inversion <br />
+ <li><p><a href="https://ieeexplore.ieee.org/abstract/document/10889627">	High-Fidelity Editable Portrait Synthesis with 3D GAN Inversion </a><br />
 Jindong Xie, Jiachen Liu, <b>Yupei Lin</b>, Jinbao Wang, Xianxu Hou, Linlin Shen<br/>
-<i> IEEE International Conference on Acoustics, Speech and Signal Processing  <b>(ICASSP)</b> 2025[Code]</i></p>
+<i> IEEE International Conference on Acoustics, Speech and Signal Processing  <b>(ICASSP)</b> 2025<a href="https://ieeexplore.ieee.org/abstract/document/10889627">[PDF]</a></i></p>
 
    
  <li><p><a href="http://export.arxiv.org/pdf/2407.14823">	CrossDehaze: Scaling Up Image Dehazing with Cross-Data Vision Alignment and Augmentation</a> <br />
