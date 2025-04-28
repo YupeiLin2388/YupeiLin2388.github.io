@@ -41,7 +41,7 @@ Jindong Xie, Jiachen Liu, <b>Yupei Lin</b>, Jinbao Wang, Xianxu Hou, Linlin Shen
    
  <li><p><a href="http://export.arxiv.org/pdf/2407.14823">	CrossDehaze: Scaling Up Image Dehazing with Cross-Data Vision Alignment and Augmentation</a> <br />
 Yukai Shi*, Zhipeng Weng*, <b>Yupei Lin</b>, Cidan Shi, Xiaojun Yang, Liang Lin<br/>
-<i> arxiv  <b>(arxiv)</b> 2024 <a href="http://export.arxiv.org/pdf/2407.14823">[PDF]</a><a href="https://github.com/wengzp1/ScaleUpDehazing">[Code]</a></i></p>
+<i> IEEE Transactions on Instrumentation and Measurement<b>(IEEE TIM)</b> 2024 <a href="http://export.arxiv.org/pdf/2407.14823">[PDF]</a><a href="https://github.com/wengzp1/ScaleUpDehazing">[Code]</a></i></p>
 
 
  <li><p><a href="http://export.arxiv.org/pdf/2406.00632">	Diff-Mosaic: Augmenting Realistic Representations in Infrared Small Target Detection via Diffusion Prior</a> <br />
