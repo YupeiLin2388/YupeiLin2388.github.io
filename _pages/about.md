@@ -12,10 +12,10 @@ Yupei Lin（林育培）
 
 Education
 ======
-* B.S. Guangdong University of Technology   (2018-2022)  
+* B.S. Guangdong University of Technology   (2018.6-2022.9)  
   * School of Information Engineering
 
-* M.S. Guangdong University of Technology (2022-present) 
+* M.S. Guangdong University of Technology (2022.9-2025.6) 
   * School of Information Engineering
   * Supervisor: [Yukai Shi](https://ykshi.github.io/)
 
