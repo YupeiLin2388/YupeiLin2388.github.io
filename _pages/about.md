@@ -21,7 +21,7 @@ Education
 
 Honors
 ======
-国家奖学金(2024)
+国家奖学金(2024-2025) 优秀毕业生(2025)
  
 Work experience
 ======
