@@ -18,7 +18,10 @@ Education
 * M.S. Guangdong University of Technology (2022.9-2025.6) 
   * School of Information Engineering
   * Supervisor: [Yukai Shi](https://ykshi.github.io/)
-
+* Ph.D. Sun Yat-Sen University (2025.9-) 
+  * School of Computer Science and Engineering
+  * Supervisor: [Liang Lin](https://sysu-hcp.net/faculty/lianglin.html)
+    
 Honors
 ======
 国家奖学金(2024-2025) 优秀毕业生(2025)
