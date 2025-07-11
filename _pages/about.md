@@ -25,7 +25,12 @@ Education
 Honors
 ======
 国家奖学金(2024-2025) 优秀毕业生(2025)
- 
+
+Journal Reviewer
+======
+IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
+
+
 Work experience
 ======
 * The Chinese University of Hong Kong，Shenzhen (2022.06-2022.09) 
