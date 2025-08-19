@@ -30,6 +30,7 @@ Journal Reviewer
 ======
 IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
 
+Engineering Applications of Artificial Intelligence(EAAI)
 
 Work experience
 ======
