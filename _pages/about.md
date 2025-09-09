@@ -43,6 +43,11 @@ Work experience
 Publication
 ======
 *= co-first author   
+ <li><p><a href="https://arxiv.org/abs/2503.10657"> Routereval: A Comprehensive Benchmark for Routing LLMs to Explore Model-level Scaling Up</a> <br/>
+Zhongzhan Huang, Guoming Ling, <b>Yupei Lin</b>, Yandong Chen, Shanshan Zhong, Hefeng Wu, and L. Lin
+<i> The Conference on Empirical Methods in Natural Language Processing<b>(EMNLP)</b> 2025 <a href="https://arxiv.org/abs/2503.10657">[PDF]</a><a href="https://github.com/MilkThink-Lab/RouterEval">[Code]</a></i></p>
+
+   
  <li><p><a href="https://export.arxiv.org/pdf/2407.14823">	Scaling Up Single Image Dehazing Algorithm by Cross-Data Vision Alignment for Richer Representation Learning and Beyond</a> <br />
 Yukai Shi*, Zhipeng Weng*, <b>Yupei Lin</b>, Cidan Shi, Xiaojun Yang, Liang Lin<br/>
 <i> IEEE Transactions on Instrumentation and Measurement<b>(IEEE TIM)</b> 2024 <a href="http://export.arxiv.org/pdf/2407.14823">[PDF]</a><a href="https://github.com/wengzp1/ScaleUpDehazing">[Code]</a></i></p>
