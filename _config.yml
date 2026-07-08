@@ -10,7 +10,7 @@ locale                   : "zh-CN"
 title                    : "Yupei Lin (林育培)"
 title_separator          : "-"
 name                     : &name "Yupei Lin(林育培)"
-description              : &description "personal description"
+description              : &description "林育培（Yupei Lin），中山大学（Sun Yat-sen University, SYSU）博士生"
 url                      : https://YupeiLin2388.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YupeiLin2388/YupeiLin2388.github.io"
@@ -261,14 +261,14 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  #- jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  #- jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
