@@ -8,3 +8,4 @@ All 13 papers have local Figure 1 images. Twelve figures were rendered from veri
 HoloCosm retains its arXiv venue and Under review status. Submission-conference wording has been removed from all generated pages and data. Right Model, Right Task remains Under review. The original avatar and enlarged typography are preserved, with blue bold supervisor names and a readable mobile layout.
 
 The original downloaded ZIP files in the parent directory are unchanged backups.
+website updated.
