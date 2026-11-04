@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator https://www.eptimize.app -->
-  <url>
-    <loc>https://yupeilin2388.github.io/sitemap/</loc>
-    <lastmod>2025-09-30</lastmod>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://yupeilin2388.github.io/</loc>
-    <lastmod>2025-09-30</lastmod>
-    <priority>0.8</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url><loc>https://yupeilin2388.github.io/</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://yupeilin2388.github.io/papers/gpt-as-tactile-policy.html</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://yupeilin2388.github.io/papers/holocosm.html</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://yupeilin2388.github.io/papers/are-we-testing-too-much.html</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://yupeilin2388.github.io/papers/right-model-right-task.html</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://yupeilin2388.github.io/papers/neural-chain-of-thought-search.html</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://yupeilin2388.github.io/papers/routereval.html</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://yupeilin2388.github.io/papers/angularfuse.html</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://yupeilin2388.github.io/papers/cross-data-dehazing.html</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://yupeilin2388.github.io/papers/diff-mosaic.html</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://yupeilin2388.github.io/papers/sirst-5k.html</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://yupeilin2388.github.io/papers/mirrordiffusion.html</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://yupeilin2388.github.io/papers/regeneration-learning.html</loc><lastmod>2026-11-05</lastmod></url>
+<url><loc>https://yupeilin2388.github.io/papers/exploring-negatives.html</loc><lastmod>2026-11-05</lastmod></url>
 </urlset>
